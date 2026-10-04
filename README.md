@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Doctor and Programmer
+Balancing Medicine and AI in the current world
 
 <!--
 **NullVector14/NullVector14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
